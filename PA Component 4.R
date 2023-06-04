@@ -1,11 +1,5 @@
-# Predictive Analytics Component 4
-# Group 9
+# Shashvat Vishnoi
 # Reference file - MobilePrices
-# Group Members:
-# Shashvat Vishnoi - 20021021488
-# Vansh Hablani - 20021021567
-# Tanvi Verma - 20021021603
-# Skand Sharma - 20021021249
 
 #############################################################
 
