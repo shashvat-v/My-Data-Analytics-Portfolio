@@ -1,9 +1,9 @@
 # Objective
 The objective of this project is to find the best machine learning algorithm to accurately classify mobile phone into the following categories:
-0 - indicating low cost category
-1 - medium cost category
-2 - high cost category
-3 - very high cost category
+1. 0 - indicating low cost category
+2. 1 - medium cost category
+3. 2 - high cost category
+4. 3 - very high cost category
 Based on certain attributes like memory, screen size, number of cores etc.
 
 # Understanding the Dataset ‘MobilePrices’
